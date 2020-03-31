@@ -1,0 +1,13 @@
+[{
+    "rid": "<rid1>",
+    "location_info": {
+        "from_city": "Chicago",
+        "from_zip": "60616",
+        "to_city": "Rockford",
+        "to_zip": ""
+    },
+    "date_time": {
+        "date": "30-Apr-2020",
+        "time": "15:00"
+    }
+}]

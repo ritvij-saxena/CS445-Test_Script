@@ -1,0 +1,14 @@
+[
+    {
+        "mid": "<mid1>",
+        "sent_by_aid": "<aid1>"
+        "date": "12-Apr-2020, 17:23:15",
+        "body": "One passenger; could you pick me up at the Starbucks in Barrington at Main and Hough?"
+    },
+    {
+        "mid": "<mid2>",
+        "sent_by_aid": "<aid2>"
+        "date": "12-Apr-2020, 17:30:19",
+        "body": "Ok, will do, see you on Tuesday morning"
+    }
+]

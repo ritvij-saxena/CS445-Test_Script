@@ -1,0 +1,38 @@
+{
+    "rid": "<rid1>",
+    "location_info": {
+        "from_city": "Barrington",
+        "from_zip": "60010",
+        "to_city": "Milwaukee",
+        "to_zip": "53202"
+    },
+    "date_time": {
+        "date": "31-Apr-2020",
+        "time": "09:00"
+    },
+    "car_info": {
+        "make": "Audi",
+        "model": "A4",
+        "color": "Gray",
+        "plate_state": "IL",
+        "plate_serial": "COVID19"
+    },
+    "driver": "John",
+    "driver_picture": "http://example.com/images/john-smith.jpeg",
+    "rides": 3,
+    "ratings": 2,
+    "average_rating": 4.5,
+    "comments_about_driver": [{
+            "rid": "<rid2>",
+            "date": "13-Apr-2020",
+            "rating": 5,
+            "comment": "Great car, smooth drive, very good conversation."
+        },
+        {
+            "rid": "<rid3>",
+            "date": "1-Apr-2020",
+            "rating": 4,
+            "comment": "John drives too fast, I was scared out of my mind."
+        }
+    ]
+}

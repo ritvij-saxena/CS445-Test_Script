@@ -1,0 +1,24 @@
+{
+    "aid": "<aid1>",
+    "first_name": "John",
+    "rides": 3,
+    "ratings": 2,
+    "average_rating": 4.5,
+    "detail": [{
+            "rid": "<rid1>",
+            "sent_by_id": "<sid2>",
+            "first_name": "Bob",
+            "date": "13-Apr-2020",
+            "rating": 5,
+            "comment": "Great car, smooth drive, very good conversation."
+        },
+        {
+            "rid": "<rid2>",
+            "sent_by_id": "<sid2>",
+            "first_name": "Alice",
+            "date": "1-Apr-2020",
+            "rating": 4,
+            "comment": "John drives too fast, I was scared out of my mind."
+        }
+    ]
+}

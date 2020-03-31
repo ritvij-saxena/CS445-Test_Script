@@ -1,0 +1,16 @@
+{
+    "aid": "<aid1>",
+    "first_name": "Jane",
+    "rides": 1,
+    "ratings": 1,
+    "average_rating": 5,
+    "detail": [{
+        "rid": "<rid1>",
+        "sent_by_id": "<sid1>",
+        "first_name": "John",
+        "date": "31-Apr-2020",
+        "rating": 5,
+        "comment": "Jane slept all the way to destination."
+    }]
+}
+    
